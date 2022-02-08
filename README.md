@@ -1,6 +1,5 @@
 # UE_Node_SimpleUI
 
-paste the file into this path \
 Engine\Content\Editor\Slate\Graph
 
 ![12345](https://user-images.githubusercontent.com/10443544/152939623-058167a5-d380-4929-bb3f-910935d9948a.png)
